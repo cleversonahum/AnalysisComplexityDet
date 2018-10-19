@@ -1,2 +1,2 @@
-# AnalysisComplexityDet
-Analysis and comparative of complexity algorithms to find matrix determinant.
+# AnalysisComplexitySort
+Analysis and comparative of complexity algorithms to sort lists.
